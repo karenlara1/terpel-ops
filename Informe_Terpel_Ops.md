@@ -9,7 +9,7 @@ Regional Occidente · Quindío
 
 Administración de Infraestructura de TI
 
-Estudiante: Mateo Garrido Ríos  
+Estudiante: Mateo Garrido Ríos - Sebastian Torres - Jorge William Montoya - Karen Lara 
 Docente: Maycol Cardenas Acevedo  
 Fecha: 20 de noviembre de 2026  
 Plataforma: Dokploy sobre Ubuntu Server 24.04
